@@ -1,0 +1,13 @@
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.exe
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.deps.json
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.runtimeconfig.json
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.runtimeconfig.dev.json
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.dll
+D:\Files\C#\FireTeamDataCreator\bin\Debug\netcoreapp3.1\FireTeamDataCreator.pdb
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.csprojAssemblyReference.cache
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.csproj.CoreCompileInputs.cache
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.AssemblyInfoInputs.cache
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.AssemblyInfo.cs
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.dll
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.pdb
+D:\Files\C#\FireTeamDataCreator\obj\Debug\netcoreapp3.1\FireTeamDataCreator.genruntimeconfig.cache
